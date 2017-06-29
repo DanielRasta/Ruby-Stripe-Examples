@@ -1,5 +1,5 @@
 require "stripe"
-Stripe.api_key = "sk_test_o1bBWh2kAJPBspQzmf7LAIui"
+Stripe.api_key = ""
 
 amount_in_cents = 3000
 owner_precentage = 0.4
